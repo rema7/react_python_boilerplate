@@ -38,13 +38,13 @@ Install npm dependencies:
     $ cd ./frontend
     $ npm install
 
-### Run frontend
+##### Run frontend
 
     $ webpack-dev-server
     
 Use next address in browser: http://localhost:8110/
 
-#### Docker Container
+### Run via docker
 
     (virt-env)$ cd docker
     (virt-env)$ docker-compose up
